@@ -6,9 +6,7 @@ Hi! My name is Kristaps Sebris and I am a beginning software developer. At this 
 </div>
 
 <div style="text-align: center;">
-
-![profile](img/profile.jpg)
-
+<img src="img/profile.jpg" width="363" alt="profile_picture">
 </div>
 
 ## Programming
@@ -26,9 +24,7 @@ I had the pleasure to participate in the "Java from scratch" course organized by
 </div>
 
 <div style="text-align: center;">
-
-![profile](img/Certificate_SDA.png)
-
+<img src="img/Certificate_SDA.png" width="75%" alt="certificate">
 </div>
 
 Participating in the course also enabled me to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology.
@@ -50,9 +46,7 @@ During the course I learned testing methodologies and techniques.
 ## Technologies
 
 <div style="text-align: center;">
-
-![profile](img/Certificate_SDA_back.png)
-
+<img src="img/Certificate_SDA_back.png" width="75%" alt="certificate_tech">
 </div>
 
 ## Interests
