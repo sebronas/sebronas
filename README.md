@@ -5,11 +5,11 @@
 Hi! My name is Kristaps Sebris and I am a beginning software developer. At this point I would like to share with you my experience and projects I had the pleasure to work on so far.
 </div>
 
-<center>
+<div style="text-align: center;">
 
 ![profile](img/profile.jpg)
 
-</center>
+</div>
 
 ## Programming
 <div style="text-align: justify">
