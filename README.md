@@ -5,7 +5,7 @@
 Hi! My name is Kristaps Sebris and I am a beginning software developer. At this point I would like to share with you my experience and projects I had the pleasure to work on so far.
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center">
 <img src="img/profile.jpg" width="363" alt="profile_picture">
 </div>
 
@@ -23,7 +23,7 @@ As a person I am open-minded and hardworking, not afraid of taking initiative.
 I had the pleasure to participate in the "Java from scratch" course organized by Software Development Academy. During over 300 hours of classes and many hours devoted to independent work, I gained knowledge on the following topics:
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center">
 <img src="img/Certificate_SDA.png" width="75%" alt="certificate">
 </div>
 
@@ -45,14 +45,14 @@ During the course I learned testing methodologies and techniques.
 
 ## Technologies
 
-<div style="text-align: center;">
+<div style="text-align: center">
 <img src="img/Certificate_SDA_back.png" width="75%" alt="certificate_tech">
 </div>
 
 ## Interests
 Programming is not everything, I like to play basketball and do extreme activities in my spare time.
 
-<div style="text-align: center;">
+<div style="text-align: center">
 
 ![skydiving](img/skydiving.png)
 
