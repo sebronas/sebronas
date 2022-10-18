@@ -2,9 +2,11 @@
 
 ## About me
 Hi! My name is Kristaps Sebris and I am a beginning software developer. At this point I would like to share with you my experience and projects I had the pleasure to work on so far.
-<center>
+<div style="text-align: center;">
+
 ![profile](img/profile.jpg)
-</center>
+
+</div>
 
 ## Programming
 My professional experience has included different jobs. 
@@ -15,9 +17,11 @@ As a person I am open-minded and hardworking, not afraid of taking initiative.
 
 ## Software Development Academy course
 I had the pleasure to participate in the "Java from scratch" course organized by Software Development Academy. During over 300 hours of classes and many hours devoted to independent work, I gained knowledge on the following topics:
-<center>
+<div style="text-align: center;">
+
 ![profile](img/Certificate_SDA.png)
-</center>
+
+</div>
 
 Participating in the course also enabled me to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology.
 
@@ -35,22 +39,22 @@ During the course I learned testing methodologies and techniques.
 
 ## Technologies
 
-<center>
+<div style="text-align: center;">
 
-![profile](img/technical_skills.png)
+![profile](img/Certificate_SDA_back.png)
 
-</center>
+</div>
 
 ## Interests
 Programming is not everything, I like to play basketball and do extreme activities in my spare time.
 
-<center>
+<div style="text-align: center;">
 
-![skydiving](img/skydiving.jpg)
+![skydiving](img/skydiving.png)
 
-</center>
+</div>
 
 ## Contact
 
-You can contact me through [Linkedin](https://www.linkedin.com/in/kristaps-sebris-hire-me/)
+You can contact me through [LinkedIn](https://www.linkedin.com/in/kristaps-sebris-hire-me/)
 
