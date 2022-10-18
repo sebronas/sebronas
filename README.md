@@ -5,7 +5,10 @@
 Hi! My name is Kristaps Sebris and I am a beginning software developer. At this point I would like to share with you my experience and projects I had the pleasure to work on so far.
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; 
+     border-radius: 10px;
+     height: 50%"
+>
 
 ![profile](img/profile.jpg)
 
