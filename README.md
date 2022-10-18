@@ -16,7 +16,7 @@ As a person I am open-minded and hardworking, not afraid of taking initiative.
 ## Software Development Academy course
 I had the pleasure to participate in the "Java from scratch" course organized by Software Development Academy. During over 300 hours of classes and many hours devoted to independent work, I gained knowledge on the following topics:
 <center>
-![profile](img/java_certificate.png)
+![profile](img/Certificate_SDA.png)
 </center>
 
 Participating in the course also enabled me to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology.
