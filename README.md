@@ -2,7 +2,7 @@
 
 ## About me
 <div style="text-align: justify">
-Hi! My name is Kristaps Sebris and I am a beginning software developer. At this point I would like to share with you my experience and projects I had the pleasure to work on so far.
+Hi! My name is Kristaps Sebris. At this point I would like to share with you my experience and projects I had the pleasure to work on so far.
 </div>
 
 <div align="center">
@@ -12,9 +12,8 @@ Hi! My name is Kristaps Sebris and I am a beginning software developer. At this 
 ## Programming
 <div style="text-align: justify">
 My professional experience has included different jobs. 
-However, I always kept the idea of becoming a programmer in the back of my head until I decided to follow my dream and graduated from Software Development Academy in 09.2022 (JAVA from Scratch course).
-When I am passionate about something, it is very difficult for me to stop doing it. 
-Programming is my passion and I am determined to continuously improve my programming skills. 
+However, I always kept the idea of becoming a programmer in the back of my head until I decided to follow my dream and graduated from Software Development Academy (SDA) in 09.2022 (JAVA from Scratch course).
+After finishing SDA I joined Accenture Baltic and for last 4 years I am back-end developer for SAP Commerce (hybris) project.
 As a person I am open-minded and hardworking, not afraid of taking initiative.
 </div>
 
